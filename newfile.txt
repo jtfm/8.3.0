@@ -4,3 +4,6 @@ bugfix 1
 bug fix 2
 hotfix 1
 potential conflict with persons-feature
+bob michael
+sandra
+
