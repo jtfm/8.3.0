@@ -3,3 +3,5 @@ This is a change purely for the develop branch.
 bugfix 1 
 bug fix 2
 hotfix 1
+bob michael
+sandra
